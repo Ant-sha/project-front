@@ -1,1 +1,1 @@
-<script src="/js/script.js" defer></script>
+<script src="/js/js.js" defer></script>
